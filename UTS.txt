@@ -1,0 +1,15 @@
+Jawaban UTS
+
+1.1 kerangka kerja atau struktur dasar yang membantu pengembangan aplikasi dengan menyediakan alat-alat dan aturan-aturan yang telah siap pakai.
+
+2.1 Project Laundry
+2.2 Arga = Bagian DataBase, Dokumentasi dll
+    Joseph = Bagian Front end
+    Jordan = Bagian Back end
+2.3 permasalahan: pemasaran laundry karena tempat yang kurang strategis. 
+Solusi: Membuat promo pada aplikasi agar orang-orang tertarik menggunakan aplikasi yang dibuat dan akan terbiasa menggunalan jasa aplikasi laundry tersebut.
+
+
+
+
+
